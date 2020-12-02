@@ -1,0 +1,31 @@
+{
+  "name": "gulp-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "load": "npm i -f",
+    "start": "gulp",
+    "deploy": "gulp deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.0.4",
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-webp": "^4.0.1",
+    "imagemin-optipng": "^8.0.0",
+    "node-sass": "^5.0.0",
+    "postcss": "^8.1.10"
+  }
+}
